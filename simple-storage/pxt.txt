@@ -1,0 +1,12 @@
+{
+  "name": "simple-storage",
+  "description": "Simple key/value persistent storage for micro:bit V2",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "simpleStorage.ts"
+  ],
+  "testFiles": [],
+  "public": true
+}
